@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="public/assets/logo.png" alt="Lineagentic Logo" width="880" height="300">
+</div>
 
 ## About
 This project is a tool for visualizing data lineage in a structured, interactive graphs, making it easier to explore, format, and validate JSON.
