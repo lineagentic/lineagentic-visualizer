@@ -5,7 +5,7 @@
 ## About
 This project is a tool for visualizing data lineage in a structured, interactive graphs, making it easier to also query the data from the graph.
 
-## Architecture
+## UI
 
 ![Architecture Diagram](public/assets/visualizer.jpg)
 
