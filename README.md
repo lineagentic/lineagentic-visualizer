@@ -3,7 +3,9 @@
 </div>
 
 ## About
-This project is a tool for visualizing data lineage in a structured, interactive graphs, making it easier to explore, format, and validate JSON.
+This project is a tool for visualizing data lineage in a structured, interactive graphs, making it easier to also query the data from the graph.
+
+## Architecture
 
 ![Architecture Diagram](public/assets/visualizer.jpg)
 
