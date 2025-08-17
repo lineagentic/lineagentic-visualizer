@@ -1,0 +1,15 @@
+This product includes software originally developed by:
+
+JSONCRACK  
+Copyright 2025 Aykut Saraç  
+Licensed under the Apache License, Version 2.0  
+http://www.apache.org/licenses/LICENSE-2.0  
+
+--------------------------------------------------------------------
+
+Modifications :  
+
+- Rebranded the software as Lineagentic  
+- Added side bar and top bar  
+- Added connenction to RestAPI to get the data
+
